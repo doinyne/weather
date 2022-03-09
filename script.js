@@ -13,3 +13,5 @@ let weather = {
 
   }
 };
+
+// api working now
